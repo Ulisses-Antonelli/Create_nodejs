@@ -1,6 +1,3 @@
-
-//este é o meu código, mas calma eu ainda vou inserir o erro apresentado, por favor espere! 
-
 const express = require("express")
 const app = express()
 const handlebars = require("express-handlebars").engine
