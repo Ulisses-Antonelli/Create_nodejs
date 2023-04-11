@@ -1,7 +1,7 @@
 # Create_nodejs
 Aula fundamentada na integração do formulário com o banco de dados, utilizando os módulos Express, Express-Handlebars, Sequelize, MySQL e Body-Parser.
 
-Resumo do que é cada módulo:
+Resumo do que é e o que faz cada módulo:
 
 Express: é um framework web para Node.js, que ajuda a criar aplicativos web de maneira rápida e fácil. Ele fornece uma série de recursos para facilitar o desenvolvimento, como roteamento, gerenciamento de solicitações e respostas HTTP, middleware, entre outros.
 
